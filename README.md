@@ -8,7 +8,6 @@ profile without authorization or proper attribution. Below is the documented pro
 
 ![Screenshot Plagiat](assets/Bildschirmfoto vom 2026-03-14 20-56-16.png)
 
-
 https://github.com/tfantas  seems to have 20+ years of expirience but no own ideas .... Im gonna make him famous...... 
 If you enjoyed my repos and found them useful, Im sorry but im out of this game !!! No more opensource Sorry
 Im sure you will find my further developed Repos at https://github.com/jarvis-aix  .... What a disgrace and disrespect !
